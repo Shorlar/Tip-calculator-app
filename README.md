@@ -12,8 +12,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - [Author](#author)
 
 ## Overview
-The Tip calculator app calculates tips for person(s) based on the percentage of bill paid by a customer. it has several predetermined buttons for percentage of bill and also it has a custom input. Tips are also calculated per number of persons specified.
 
+The Tip calculator app calculates tips for person(s) based on the percentage of bill paid by a customer. it has several predetermined buttons for percentage of bill and also it has a custom input. Tips are also calculated per number of persons specified.
 
 ### The challenge
 
@@ -28,11 +28,11 @@ Users should be able to:
 - HTML5 markup
 - CSS custom properties
 - CSS Flexbox & Grid
+- Javascript
 
 ### What I learned
 
 With this project, i have been able to pratice most of what i have been learning via youtube tutorials
-
 
 ### Continued development
 
@@ -42,4 +42,3 @@ I need to develop my CSS skills more. i spent so much time on it in this project
 
 - Frontend Mentor - [@Sholar](https://www.frontendmentor.io/profile/Shorlar)
 - Twitter - [@baarbz](https://www.twitter.com/baarbz)
-
