@@ -34,6 +34,10 @@ Users should be able to:
 
 With this project, i have been able to pratice most of what i have been learning via youtube tutorials
 
+### Link
+
+https://shola-tip-calculator-app.netlify.app/
+
 ### Continued development
 
 I need to develop my CSS skills more. i spent so much time on it in this project. i also need to refactor my javascript codes. it looks alot messy now but with time i will improve on them.
